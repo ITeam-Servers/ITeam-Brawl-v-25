@@ -1,5 +1,5 @@
 # ITeam-Brawl-v-25
-1 server in the world on 25 version in github
+1 server in the world on brawl stars v25 in github
 
 
 ## How to run server?
